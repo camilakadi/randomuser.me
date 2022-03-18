@@ -1,0 +1,10 @@
+node_modules
+.next
+coverage
+out
+.scannerwork
+yarn-error.log
+package.lock
+.DS_Store
+build
+.vs
